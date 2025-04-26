@@ -5,6 +5,7 @@
   "scripts": {
     "anchor": "cd anchor && anchor",
     "anchor-build": "cd anchor && anchor build",
+    "anchor-deploy": "cd anchor && anchor deploy",
     "anchor-localnet": "cd anchor && anchor localnet",
     "anchor-test": "cd anchor && anchor test",
     "build": "next build",
